@@ -38,6 +38,7 @@ The project contains:
 
 ### Reports Included
 **1. Daily Sales Report**  
+
 Tracks:
 
 - Invoice Date
@@ -48,6 +49,7 @@ Tracks:
 - Gross Profit
   
 **2. Monthly Sales Report**
+
 Provides:
 
 - Customer-wise sales summary
@@ -55,6 +57,7 @@ Provides:
 - Profitability analysis
   
 **3. Customer Report**
+
 Analyzes:
 
 - Customer contribution %
@@ -62,6 +65,7 @@ Analyzes:
 - City-wise sales performance
   
 **4. Product Report**
+
 Shows:
 
 - Product sales performance
@@ -69,6 +73,7 @@ Shows:
 - Product profitability
 
 **5. Expense Report**
+
 Tracks:
 
 - Department-wise expenses
