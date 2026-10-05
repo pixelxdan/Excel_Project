@@ -106,3 +106,11 @@ Interactive dashboard displaying:
 - Evaluate sales trends
 - Improve decision-making through visual reports.
  
+### Files
+- <a href="https://github.com/pixelxdan/Excel_Project/blob/main/Edit%20Data.xlsx">Dataset View</a>
+
+### Dashboard Preview
+- <a href="https://github.com/pixelxdan/Excel_Project/blob/main/Screenshot%202026-10-05%20063856.png">Dashboard Preview"</a>
+- <a href="https://github.com/pixelxdan/Excel_Project/blob/main/Screenshot%202026-10-05%20063959.png">Dashboard Preview"</a>
+- <a href="https://github.com/pixelxdan/Excel_Project/blob/main/Screenshot%202026-10-05%20064008.png">Dashboard Preview"</a>
+- <a href="https://github.com/pixelxdan/Excel_Project/blob/main/Screenshot%202026-10-05%20064041.png">Dashboard Preview"</a> 
