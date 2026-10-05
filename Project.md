@@ -5,7 +5,7 @@ This project is an end-to-end Sales Analytics Dashboard developed in Microsoft E
 
 The dashboard transforms raw transactional sales data into actionable business insights using Pivot Tables, Pivot Charts, KPI calculations, and interactive reports.
 
-Objectives
+### Objectives
 - Track daily and monthly sales performance
 - Analyze customer contribution to revenue
 - Monitor product-wise sales and profitability
